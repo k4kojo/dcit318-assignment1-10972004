@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minta\\Desktop\\L300\\SEM 2\\DCIT318 - PROGRAMMING II\\dcit318-assignment1-10972004\\Grade Calculator\\Grade Calculator.csproj": {}
+    "C:\\Users\\minta\\Desktop\\L300\\SEM 2\\DCIT318 - PROGRAMMING II\\dcit318-assignment1-10972004\\Triangle Type Identifier\\Triangle Type Identifier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minta\\Desktop\\L300\\SEM 2\\DCIT318 - PROGRAMMING II\\dcit318-assignment1-10972004\\Grade Calculator\\Grade Calculator.csproj": {
+    "C:\\Users\\minta\\Desktop\\L300\\SEM 2\\DCIT318 - PROGRAMMING II\\dcit318-assignment1-10972004\\Triangle Type Identifier\\Triangle Type Identifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minta\\Desktop\\L300\\SEM 2\\DCIT318 - PROGRAMMING II\\dcit318-assignment1-10972004\\Grade Calculator\\Grade Calculator.csproj",
-        "projectName": "Grade Calculator",
-        "projectPath": "C:\\Users\\minta\\Desktop\\L300\\SEM 2\\DCIT318 - PROGRAMMING II\\dcit318-assignment1-10972004\\Grade Calculator\\Grade Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\minta\\Desktop\\L300\\SEM 2\\DCIT318 - PROGRAMMING II\\dcit318-assignment1-10972004\\Triangle Type Identifier\\Triangle Type Identifier.csproj",
+        "projectName": "Triangle Type Identifier",
+        "projectPath": "C:\\Users\\minta\\Desktop\\L300\\SEM 2\\DCIT318 - PROGRAMMING II\\dcit318-assignment1-10972004\\Triangle Type Identifier\\Triangle Type Identifier.csproj",
         "packagesPath": "C:\\Users\\minta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minta\\Desktop\\L300\\SEM 2\\DCIT318 - PROGRAMMING II\\dcit318-assignment1-10972004\\Grade Calculator\\obj\\",
+        "outputPath": "C:\\Users\\minta\\Desktop\\L300\\SEM 2\\DCIT318 - PROGRAMMING II\\dcit318-assignment1-10972004\\Triangle Type Identifier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minta\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\bin\Debug\net8.0\Triangle Type Identifier.exe
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\bin\Debug\net8.0\Triangle Type Identifier.deps.json
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\bin\Debug\net8.0\Triangle Type Identifier.runtimeconfig.json
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\bin\Debug\net8.0\Triangle Type Identifier.dll
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\bin\Debug\net8.0\Triangle Type Identifier.pdb
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.AssemblyInfoInputs.cache
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.AssemblyInfo.cs
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.csproj.CoreCompileInputs.cache
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.sourcelink.json
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.dll
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\obj\Debug\net8.0\refint\Triangle Type Identifier.dll
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.pdb
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.genruntimeconfig.cache
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Triangle Type Identifier\obj\Debug\net8.0\ref\Triangle Type Identifier.dll
