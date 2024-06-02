@@ -1,0 +1,14 @@
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\bin\Debug\net8.0\Grade Calculator.exe
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\bin\Debug\net8.0\Grade Calculator.deps.json
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\bin\Debug\net8.0\Grade Calculator.runtimeconfig.json
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\bin\Debug\net8.0\Grade Calculator.dll
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\bin\Debug\net8.0\Grade Calculator.pdb
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\obj\Debug\net8.0\Grade Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\obj\Debug\net8.0\Grade Calculator.AssemblyInfoInputs.cache
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\obj\Debug\net8.0\Grade Calculator.AssemblyInfo.cs
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\obj\Debug\net8.0\Grade Calculator.csproj.CoreCompileInputs.cache
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\obj\Debug\net8.0\Grade Calculator.dll
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\obj\Debug\net8.0\refint\Grade Calculator.dll
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\obj\Debug\net8.0\Grade Calculator.pdb
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\obj\Debug\net8.0\Grade Calculator.genruntimeconfig.cache
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\Grade Calculator\obj\Debug\net8.0\ref\Grade Calculator.dll
