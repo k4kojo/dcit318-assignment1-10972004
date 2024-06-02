@@ -1,0 +1,15 @@
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.exe
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.deps.json
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.runtimeconfig.json
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.dll
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.pdb
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.AssemblyInfoInputs.cache
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.AssemblyInfo.cs
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.csproj.CoreCompileInputs.cache
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.sourcelink.json
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.dll
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\obj\Debug\net8.0\refint\Ticket Price Calculator.dll
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.pdb
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.genruntimeconfig.cache
+C:\Users\minta\Desktop\L300\SEM 2\DCIT318 - PROGRAMMING II\dcit318-assignment1-10972004\Ticket Price Calculator\obj\Debug\net8.0\ref\Ticket Price Calculator.dll
